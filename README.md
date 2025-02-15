@@ -20,12 +20,12 @@ This project aims to develop a conversational AI system for an e-commerce platfo
 ## Running the Chatbot
 
 Step-by-step instructions to start and use the chatbot:
-1- Install Python libraries for NLP and machine learning.
-2- Load Microsoft's DialoGPT-small model for conversational AI and using tokenizer.
-3- Generate a Scalable Product Catalog and save to json file.
-4- Complex Query Handling.
-5- Version 1 for prompt chatbot.
-6- Version 2 for prompt chatbot.
+- Install Python libraries for NLP and machine learning.
+- Load Microsoft's DialoGPT-small model for conversational AI and using tokenizer.
+- Generate a Scalable Product Catalog and save to json file.
+- Complex Query Handling.
+- Version 1 for prompt chatbot.
+- Version 2 for prompt chatbot.
 
 ## Example Queries
 
@@ -37,11 +37,11 @@ The chatbot can handle a variety of complex queries, such as:
 ## Deploy the chatbot on a public platform
 
 Step-by-step instructions to start and use the chatbot on a public platform:
-1- Link the google colab code with github 
-2- Upload the json file and requirements libraries on the github repository 
-3- Go to steamlit app and sign in with the github account
-4- Choose the project repository and the python file and insert your Hugging face API key
-5- Deploy the appliction and test your chatbot
+- Link the google colab code with github 
+- Upload the json file and requirements libraries on the github repository 
+- Go to steamlit app and sign in with the github account
+- Choose the project repository and the python file and insert your Hugging face API key
+- Deploy the appliction and test your chatbot
 
 ## License
 
