@@ -30,9 +30,9 @@ Step-by-step instructions to start and use the chatbot:
 ## Example Queries
 
 The chatbot can handle a variety of complex queries, such as:
-- **Product Search:** "Show me Apple Laptops under $500"
+- **Product Search:** "Show me Apple Laptops underÂ $500"
 - **Check availability:** "How many items are in stock?"
-- **Fast delivery check :** "Find me Sony laptops that will be delivered on Same-day and under $500"
+- **Fast delivery check :** "Find me Sony laptops that will be delivered on Same-day andÂ underÂ $500"
 
 ## Deploy the chatbot on a public platform
 
